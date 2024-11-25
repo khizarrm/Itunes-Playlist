@@ -1,3 +1,5 @@
+First, download the files and run the following:
+>npm init -y
 
 To install npm modules execute:
 >npm install
